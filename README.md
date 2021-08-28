@@ -1,8 +1,8 @@
 # Google-Homepage
 
-Traning project from "The Odin Project" course. 
+Simple clone of main Google Search site.
 
-
+#1 traning project from "The Odin Project" course. 
 
 ## Also i try some Markdown below: 
 
