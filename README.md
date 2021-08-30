@@ -1,4 +1,4 @@
-# Google-Homepage
+# [Google-Homepage](https://zacmiony.github.io/google-homepage/)
 
 Simple clone of main Google Search site.
 
